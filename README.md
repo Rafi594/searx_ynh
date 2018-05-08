@@ -1,4 +1,4 @@
-Searx for YunoHost
+Searx for Yunohost
 ==================
 
 [Yunohost project](https://yunohost.org/#/)
